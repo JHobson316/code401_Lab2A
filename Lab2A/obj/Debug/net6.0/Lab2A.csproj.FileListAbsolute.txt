@@ -1,0 +1,15 @@
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.csproj.AssemblyReference.cache
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.AssemblyInfoInputs.cache
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.AssemblyInfo.cs
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.csproj.CoreCompileInputs.cache
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\bin\Debug\net6.0\Lab2A.exe
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\bin\Debug\net6.0\Lab2A.deps.json
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\bin\Debug\net6.0\Lab2A.runtimeconfig.json
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\bin\Debug\net6.0\Lab2A.dll
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\bin\Debug\net6.0\Lab2A.pdb
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.dll
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\refint\Lab2A.dll
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.pdb
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\Lab2A.genruntimeconfig.cache
+C:\Users\lizzy\401\code401_Lab2A\Lab2A\obj\Debug\net6.0\ref\Lab2A.dll
