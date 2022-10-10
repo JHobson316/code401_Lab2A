@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lizzy\\.nuget\\packages\\": {}
+    "C:\\Users\\Jay\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lizzy\\401\\code401_Lab2A\\Lab2A\\Lab2A.csproj",
+      "projectUniqueName": "C:\\Users\\Jay\\401\\code401_Lab2A\\Lab2A\\Lab2A.csproj",
       "projectName": "Lab2A",
-      "projectPath": "C:\\Users\\lizzy\\401\\code401_Lab2A\\Lab2A\\Lab2A.csproj",
-      "packagesPath": "C:\\Users\\lizzy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lizzy\\401\\code401_Lab2A\\Lab2A\\obj\\",
+      "projectPath": "C:\\Users\\Jay\\401\\code401_Lab2A\\Lab2A\\Lab2A.csproj",
+      "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jay\\401\\code401_Lab2A\\Lab2A\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lizzy\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Jay\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
