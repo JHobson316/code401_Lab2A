@@ -29,10 +29,10 @@ namespace Program
                 int[] numArray = new int[numHere];
                 numArray = Populate(numHere, numArray);
                 int sum = GetSum(numArray);
-                int product = GetProduct(numArray, sum);
-                double quotient = GetQuotient(product)[0];
+                int[] product = GetProduct(numArray, sum);
+                double[] quotient = GetQuotient(product[0]);
                 Console.WriteLine(
-                    $"Your array is {numHere} numbers long.\nThe numbers in your array are {String.Join(",", numArray)}.\nThe sum of all numbers in the array is {sum}.\nThe product of "
+                    $"Your array is {numHere} numbers long.\nThe numbers in your array are {String.Join(",", numArray)}.\nThe sum of all numbers in the array is {sum}.\nThe product of {product[1]} and {sum} is {product[0]}.\n{product[0]}/{quotient[1]} = {quotient[0]}."
                 );
             }
             catch (Exception e)
@@ -64,21 +64,23 @@ namespace Program
             sum = numArray.Sum();
             return sum;
         }
-        public static int GetProduct(int[] numArray, int sum)
+        public static int[] GetProduct(int[] numArray, int sum)
         {
+            int product = 0;
+            int multiplyNum = 0;
             try
             {
-                int product = 0;
                 Console.WriteLine($"Pick a number 1 through {numArray.Length}");
-                int multiplyNum = Convert.ToInt32(Console.ReadLine());
+                multiplyNum = Convert.ToInt32(Console.ReadLine());
                 product = sum * numArray[multiplyNum - 1];
                 Console.WriteLine($"Product works {product}");
-                return product;
             }
             catch (IndexOutOfRangeException e)
             {
                 Console.WriteLine(e.Message);
             }
+            int[] multiplyParts = {product, multiplyNum};
+            return multiplyParts;
         }
         public static double[] GetQuotient(int product)
         {

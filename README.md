@@ -172,4 +172,4 @@ Provide setup documentation:
 - Push to your repository
 - Submit a link to your forked repo in slack to instructors
 - Include a `README.md` (contents described above)
-- If you finish this assingment, please work on the file title 'stretch-goal'. If you have also completed this folder, let us know that when you submit it :)
+- If you finish this assingment, please work on the file title 'stretch-goal'. If you have also completed this folder, let us know that when you submit it :)# Code401_Lab02A
